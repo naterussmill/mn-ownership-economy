@@ -40,34 +40,35 @@ Supported by a three-phase capital infrastructure arc from near-term mandate exp
 ```
 mn-ownership-economy/
 │
-├── README.md                          ← You are here
-├── CHANGELOG.md                       ← Version history
+├── README.md                                    ← You are here
+├── CHANGELOG.md                                 ← Version history
 │
 ├── framework/
-│   └── MN_Ownership_Economy_Framework.md   ← The full policy framework
+│   ├── 00_executive_summary.md                  ← Executive summary
+│   ├── 01_the_case.md                           ← The case and strategic intersections
+│   ├── 02_what_already_exists.md                ← Minnesota's cooperative and finance ecosystem
+│   ├── 03_six_point_agenda.md                   ← The six policy points with measurement frameworks
+│   ├── 04_three_phase_arc.md                    ← Phase 1–3 capital infrastructure arc
+│   ├── 05_coalition_and_governance.md           ← Coalition, opposition analysis, legislative strategy
+│   └── 06_outcomes_and_learning.md              ← Consolidated measurement and learning architecture
 │
 ├── one-pager/
-│   └── MN_Ownership_Economy_OnePager.md    ← Convention and meeting tool
-│
-├── stories/
-│   └── visions_2030_2045.md               ← Generative narrative visions
+│   └── mn_ownership_economy_onepager.md         ← Convention and meeting tool
 │
 └── appendices/
-    ├── appendix_a_proof_points.md          ← Proof points from other states
-    └── appendix_b_public_bank_sketch.md    ← Public bank financial sketch
+    ├── appendix_a_proof_points.md               ← Proof points from other states and models
+    └── appendix_b_public_bank_financials.md     ← Public bank financial sketch
 ```
 
-**Start with the [one-pager](one-pager/MN_Ownership_Economy_OnePager.md)** if you want the overview in two minutes.
+**Start with the [one-pager](one-pager/mn_ownership_economy_onepager.md)** if you want the overview in two minutes.
 
-**Read the [full framework](framework/MN_Ownership_Economy_Framework.md)** if you want the complete policy architecture, measurement framework, coalition analysis, and phase arc.
-
-**Read the [visions](stories/visions_2030_2045.md)** if you want to understand what success looks like in human terms — stories set in 2030–2045 that ground the policy in real outcomes.
+**Read the [full framework](framework/00_executive_summary.md)** starting with the executive summary, then work through sections 1–6.
 
 ---
 
 ## Current Version
 
-**Framework: v2.7** — April 2026
+**Framework: v3.0** — April 2026
 
 Key additions in recent versions:
 - Six-point agenda (housing added as standalone point)
@@ -90,7 +91,7 @@ Full version history in [CHANGELOG.md](CHANGELOG.md).
 
 **If you want to have a conversation:** Use [GitHub Discussions](../../discussions) for broader questions and ideas that aren't specific enough for an issue.
 
-**If you want to get in touch directly:** [Your name / email / organization]
+**If you want to get in touch directly:** Open an issue or start a Discussion — contact information coming soon.
 
 ---
 
