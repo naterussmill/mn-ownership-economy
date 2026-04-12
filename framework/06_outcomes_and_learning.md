@@ -98,3 +98,5 @@ This framework is internal. How results are communicated externally differs by a
 **For the public:** Annual narrative report — not a data dump, but stories of specific businesses, workers, and communities that the ownership economy agenda has reached. Quantitative context, but human-centered. This is the accountability document for the voters who ultimately fund and authorize the agenda.
 
 ---
+
+*[← Section 5 — Coalition, Governance, and Opposition](05_coalition_and_governance.md)*

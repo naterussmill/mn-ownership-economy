@@ -45,3 +45,5 @@ Minnesota has more ESOPs per capita than any other state. We built Securian, CHS
 **The north star outcome:** Within 15 years, Minnesota can demonstrate that the share of its economy operating under worker, cooperative, or mutual ownership has grown measurably; that the racial and geographic wealth gap has narrowed; that permanently affordable housing stock has expanded; and that the ownership economy infrastructure — anchored by a self-sustaining public bank — no longer depends on annual legislative appropriations or federal transfers to function.
 
 ---
+
+*[Next: Section 1 — The Case →](01_the_case.md)*

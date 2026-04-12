@@ -419,3 +419,5 @@ This point applies ownership economy principles to a different asset class — h
 - *If* permanently affordable units are being built in metro areas only: rural CLT development capacity is the gap — fund a greater Minnesota CLT development initiative through the Finance Authority
 
 ---
+
+*[← Section 2 — What Already Exists](02_what_already_exists.md) | [Next: Section 4 — The Three-Phase Arc →](04_three_phase_arc.md)*

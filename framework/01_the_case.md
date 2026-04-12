@@ -183,3 +183,5 @@ This is not a complete solution — childcare also needs subsidy, not just struc
 | Childcare access | Childcare cooperative formation; co-op loan fund eligible use | Partial — structure helps but doesn't fully solve | Moderate |
 
 ---
+
+*[← Executive Summary](00_executive_summary.md) | [Next: Section 2 — What Already Exists →](02_what_already_exists.md)*

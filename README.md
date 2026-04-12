@@ -85,11 +85,11 @@ Full version history in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Engage
 
-**If you want to flag an issue, suggest a correction, or propose an addition:** Open a [GitHub Issue](../../issues). Label it by policy point if you can. Be specific about what's wrong or what's missing.
+**If you want to flag an issue, suggest a correction, or propose an addition:** Open a [GitHub Issue](https://github.com/naterussmill/mn-ownership-economy/issues). Label it by policy point if you can. Be specific about what's wrong or what's missing.
 
 **If you want to contribute content:** Fork the repository, make your changes, and submit a pull request. All contributions are reviewed before merging.
 
-**If you want to have a conversation:** Use [GitHub Discussions](../../discussions) for broader questions and ideas that aren't specific enough for an issue.
+**If you want to have a conversation:** Use [GitHub Discussions](https://github.com/naterussmill/mn-ownership-economy/discussions) for broader questions and ideas that aren't specific enough for an issue.
 
 **If you want to get in touch directly:** Open an issue or start a Discussion — contact information coming soon.
 

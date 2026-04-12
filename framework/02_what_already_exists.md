@@ -45,3 +45,5 @@ What exists is practitioner-focused and sector-siloed. No institution is explici
 That is the gap this framework addresses.
 
 ---
+
+*[← Section 1 — The Case](01_the_case.md) | [Next: Section 3 — The Six-Point Agenda →](03_six_point_agenda.md)*

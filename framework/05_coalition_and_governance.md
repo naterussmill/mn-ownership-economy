@@ -154,3 +154,5 @@ The bipartisan ESOP cannabis legislation (HF3330/SF3520) demonstrates that owner
 Priority: identify a Senate DFL champion with economic or labor committee positioning who can serve as the legislative home for a comprehensive ownership economy bill. The agenda is coherent enough to be packaged as a single omnibus bill in a favorable legislative environment, or sequenced across multiple sessions in a divided one.
 
 ---
+
+*[← Section 4 — The Three-Phase Arc](04_three_phase_arc.md) | [Next: Section 6 — Outcomes and Learning Architecture →](06_outcomes_and_learning.md)*

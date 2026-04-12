@@ -137,3 +137,5 @@ At this scale, the measurement question shifts from "is the program working?" to
 Public bank legislation will face intense opposition from the commercial banking lobby. The political conditions required — DFL trifecta, strong labor and cooperative coalition, a champion with long tenure and committee positioning — may not align for years. The mitigation is the groundwork: Phase 2 demonstrates the model, the financial track record builds the case, and the coalition development work described in Section 5 builds the political infrastructure. The BND did not happen because banking reformers showed up one day with a bill. It happened because two decades of farmer-labor organizing had built the power to pass it.
 
 ---
+
+*[← Section 3 — The Six-Point Agenda](03_six_point_agenda.md) | [Next: Section 5 — Coalition, Governance, and Opposition →](05_coalition_and_governance.md)*
