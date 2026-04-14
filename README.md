@@ -37,28 +37,22 @@ Supported by a three-phase capital infrastructure arc from near-term mandate exp
 
 ## What's in This Repository
 
-```
-mn-ownership-economy/
-│
-├── README.md                                    ← You are here
-├── CHANGELOG.md                                 ← Version history
-│
-├── framework/
-│   ├── 00_executive_summary.md                  ← Executive summary
-│   ├── 01_the_case.md                           ← The case and strategic intersections
-│   ├── 02_what_already_exists.md                ← Minnesota's cooperative and finance ecosystem
-│   ├── 03_six_point_agenda.md                   ← The six policy points with measurement frameworks
-│   ├── 04_three_phase_arc.md                    ← Phase 1–3 capital infrastructure arc
-│   ├── 05_coalition_and_governance.md           ← Coalition, opposition analysis, legislative strategy
-│   └── 06_outcomes_and_learning.md              ← Consolidated measurement and learning architecture
-│
-├── one-pager/
-│   └── mn_ownership_economy_onepager.md         ← Convention and meeting tool
-│
-└── appendices/
-    ├── appendix_a_proof_points.md               ← Proof points from other states and models
-    └── appendix_b_public_bank_financials.md     ← Public bank financial sketch
-```
+- `README.md` — You are here
+- [`CHANGELOG.md`](CHANGELOG.md) — Version history
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — How to engage and contribute
+- **framework/**
+  - [`00_executive_summary.md`](framework/00_executive_summary.md) — Executive summary
+  - [`01_the_case.md`](framework/01_the_case.md) — The case and strategic intersections
+  - [`02_what_already_exists.md`](framework/02_what_already_exists.md) — Minnesota's cooperative and finance ecosystem
+  - [`03_six_point_agenda.md`](framework/03_six_point_agenda.md) — The six policy points with measurement frameworks
+  - [`04_three_phase_arc.md`](framework/04_three_phase_arc.md) — Phase 1–3 capital infrastructure arc
+  - [`05_coalition_and_governance.md`](framework/05_coalition_and_governance.md) — Coalition, opposition analysis, legislative strategy
+  - [`06_outcomes_and_learning.md`](framework/06_outcomes_and_learning.md) — Consolidated measurement and learning architecture
+- **one-pager/**
+  - [`mn_ownership_economy_onepager.md`](one-pager/mn_ownership_economy_onepager.md) — Convention and meeting tool
+- **appendices/**
+  - [`appendix_a_proof_points.md`](appendices/appendix_a_proof_points.md) — Proof points from other states and models
+  - [`appendix_b_public_bank_financials.md`](appendices/appendix_b_public_bank_financials.md) — Public bank financial sketch
 
 **Start with the [one-pager](one-pager/mn_ownership_economy_onepager.md)** if you want the overview in two minutes.
 
