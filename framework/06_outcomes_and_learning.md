@@ -53,18 +53,18 @@ The baseline question — what is the current economic condition of tribal citiz
 
 | What | Who Measures | Cadence | Public? |
 |---|---|---|---|
-| ESOP conversion pipeline and completions | MNCEO | Annual | Yes — MNCEO annual report |
+| ESOP conversion pipeline and completions | [MNCEO](https://mnceo.org) | Annual | Yes — MNCEO annual report |
 | Capital gains exemption utilization and cost | MN Dept of Revenue | Annual | Yes — tax expenditure report |
 | Cooperative lending volume and demographics | MnCIFA / Finance Authority | Annual | Yes — required by enabling statute |
-| Cooperative sector size and employment | CoMinnesota / Cooperative Network | Biennial | Yes — sector report |
+| Cooperative sector size and employment | [CoMinnesota](https://www.cominnesota.coop) / [Cooperative Network](https://www.cooperativenetwork.coop) | Biennial | Yes — sector report |
 | Procurement preference contract awards | Dept of Administration | Annual | Yes — procurement report |
 | Baby bond enrollment and demographics | Program administrator / MN Dept of Revenue | Annual | Yes — program report |
-| Pension proxy voting compliance | State Board of Investment | Annual | Yes — required by policy |
+| Pension proxy voting compliance | [State Board of Investment](https://www.sbi.state.mn.us) | Annual | Yes — required by policy |
 | Portfolio company governance outcomes | Independent researcher | Every 3 years | Yes — published study |
 | Racial wealth gap trend | Federal Reserve / U.S. Census | Every 5 years | Yes — public data |
 | Share of MN economy in ownership enterprises | U of MN / independent | Every 5 years | Yes — commissioned study |
 | Public bank financial performance | MN Public Bank (Phase 3) | Annual | Yes — state financial report |
-| Permanently affordable housing stock | MHFA / MN Housing Partnership | Annual | Yes — housing gap report |
+| Permanently affordable housing stock | [MHFA](https://www.mnhousing.gov) / [Minnesota Housing Partnership](https://www.housingpartnership.net) | Annual | Yes — housing gap report |
 
 ### Review Cadence and Adaptive Management
 

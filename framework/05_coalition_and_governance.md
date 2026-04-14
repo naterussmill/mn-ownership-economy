@@ -11,7 +11,7 @@ The ownership economy agenda is politically portable across several constituenci
 
 **Labor** — Unions have an obvious interest in worker ownership but have historically been ambivalent about ESOPs, sometimes fearing that ownership stakes could be used to substitute for or weaken collective bargaining. The reframe: ownership and representation are complementary. ESOP companies with union representation exist and thrive. Labor's buy-in is essential for the DFL political coalition and must be earned through direct engagement on the complementarity argument, not assumed.
 
-**Cooperative sector** — Cooperative Network, CoMinnesota, MNCEO, credit union associations. Already active but siloed by sector. Need a unified political voice and shared legislative agenda. This coalition does not yet exist in coherent form.
+**Cooperative sector** — [Cooperative Network](https://www.cooperativenetwork.coop), [CoMinnesota](https://www.cominnesota.coop), [MNCEO](https://mnceo.org), credit union associations. Already active but siloed by sector. Need a unified political voice and shared legislative agenda. This coalition does not yet exist in coherent form.
 
 **Community development finance** — CDFIs, community banks, nonprofit lenders. Natural allies for the Finance Authority and public bank proposals. They understand the capital gap and would benefit from wholesale liquidity. They are also potential program partners and administrators.
 
@@ -31,15 +31,15 @@ That distinction must govern everything that follows.
 
 **What Tribal Nations Already Have**
 
-Minnesota's 11 federally recognized tribal nations have built something remarkable and largely unrecognized in mainstream economic conversation: government-owned enterprise at scale. Tribal enterprises fund government services for tribal members — a form of collective ownership with no real parallel in non-Native governance, closer to a sovereign wealth fund than to either a cooperative or a conventional business. The Shakopee Mdewakanton Sioux Community owns and operates more than a dozen enterprises and is the largest employer in Scott County. The Mille Lacs Band of Ojibwe, through Mille Lacs Corporate Ventures, has built a diverse portfolio of hospitality, government contracting, and branded merchandise enterprises.
+Minnesota's 11 federally recognized tribal nations have built something remarkable and largely unrecognized in mainstream economic conversation: government-owned enterprise at scale. Tribal enterprises fund government services for tribal members — a form of collective ownership with no real parallel in non-Native governance, closer to a sovereign wealth fund than to either a cooperative or a conventional business. The [Shakopee Mdewakanton Sioux Community](https://www.smscdev.com) owns and operates more than a dozen enterprises and is the largest employer in Scott County. The [Mille Lacs Band of Ojibwe](https://millelacsband.com), through [Mille Lacs Corporate Ventures](https://mlcv.com), has built a diverse portfolio of hospitality, government contracting, and branded merchandise enterprises.
 
-At the citizen enterprise level, the Minnesota Indigenous Business Alliance (MNIBA) has launched a Buy Native campaign framing it explicitly as challenging extractive capitalism in favor of a restorative, values-based economy focused on community well-being. That framing is philosophically adjacent to the ownership economy agenda — but it is distinctly Indigenous, rooted in traditional values including the giveaway tradition, not in cooperative theory or worker ownership ideology. The alignment is real. The framing must be theirs.
+At the citizen enterprise level, the [Minnesota Indigenous Business Alliance (MNIBA)](https://www.mniba.org) has launched a Buy Native campaign framing it explicitly as challenging extractive capitalism in favor of a restorative, values-based economy focused on community well-being. That framing is philosophically adjacent to the ownership economy agenda — but it is distinctly Indigenous, rooted in traditional values including the giveaway tradition, not in cooperative theory or worker ownership ideology. The alignment is real. The framing must be theirs.
 
 **What Tribal Nations Need**
 
 The barriers tribal nations face in capital markets are structural and severe — and they are not the same barriers cooperatives and worker-owned businesses face. They are the product of specific federal policies: forced removal of collective land ownership, the trust land system that prevents tribal citizens from using their homes as collateral, sovereign immunity requirements that conventional lenders use to block access to credit, and a structural disadvantage in the municipal bond market that raises tribal governments' borrowing costs above those of comparable state and local governments.
 
-The Mille Lacs Band recognized after the pandemic that its economy was disproportionately reliant on hospitality — the diversification challenge is real across many nations. The citizen-owned enterprise ecosystem (as distinct from government-owned enterprises) is underdeveloped in most tribal economies, and the infrastructure to support it — Native CDFIs, technical assistance, peer networks — is severely undercapitalized. The Trump administration's proposed elimination of all CDFI Fund grant programs, including Native-specific programs, as of 2026 makes this capital gap more acute at exactly the moment when diversification is most needed.
+The Mille Lacs Band recognized after the pandemic that its economy was disproportionately reliant on hospitality — the diversification challenge is real across many nations. The citizen-owned enterprise ecosystem (as distinct from government-owned enterprises) is underdeveloped in most tribal economies, and the infrastructure to support it — Native CDFIs, technical assistance, peer networks — is severely undercapitalized. The Trump administration's proposed elimination of all [CDFI Fund](https://www.cdfifund.gov) grant programs, including Native-specific programs, as of 2026 makes this capital gap more acute at exactly the moment when diversification is most needed.
 
 **Where Strategic Alignment Is Real**
 
@@ -67,7 +67,7 @@ Before this framework goes wider, two outreach steps are essential:
 
 First, connect with the Minnesota Indigenous Business Alliance. Their Buy Native framing and their explicit critique of extractive capitalism make them the most natural entry point for a conversation about shared economic philosophy. They should not be surprised to find their work cited in a document they haven't seen.
 
-Second, engage the Center for Indian Country Development (CICD) at the Federal Reserve Bank of Minneapolis. CICD is doing the most rigorous research on tribal economics in the country — on tribally owned enterprise, Native CDFI capital gaps, tribal bond market disadvantages, and the economic impact of tribal enterprises on surrounding communities. Their data and framing should directly inform how this agenda engages tribal nations. They are a natural research partner for the evaluation architecture in Section 6.
+Second, engage the [Center for Indian Country Development](https://www.minneapolisfed.org/indiancountry) (CICD) at the Federal Reserve Bank of Minneapolis. CICD is doing the most rigorous research on tribal economics in the country — on tribally owned enterprise, Native CDFI capital gaps, tribal bond market disadvantages, and the economic impact of tribal enterprises on surrounding communities. Their data and framing should directly inform how this agenda engages tribal nations. They are a natural research partner for the evaluation architecture in Section 6.
 
 The goal of these conversations is not to recruit allies for a pre-formed agenda. It is to understand whether and how the ownership economy framework is relevant to tribal economic priorities — and to let that understanding shape what gets built.
 
@@ -119,7 +119,7 @@ No policy agenda succeeds without understanding who will oppose it and why. The 
 
 **Minnesota Public Bank**
 
-*Likely opponents:* The commercial banking lobby — this will be the most organized, best-funded, and most politically connected opposition in the entire agenda. Minnesota Bankers Association will lead. Major national banks with Minnesota operations will support.
+*Likely opponents:* The commercial banking lobby — this will be the most organized, best-funded, and most politically connected opposition in the entire agenda. [Minnesota Bankers Association](https://mnbankers.com) will lead. Major national banks with Minnesota operations will support.
 
 *Their arguments:* "A state bank competes unfairly with private banks." "Government has no business in banking." "Public deposits are safer in diversified private institutions than in a single state institution." "The BND works in North Dakota because of oil revenue and small population — it won't translate to Minnesota."
 
@@ -149,7 +149,7 @@ The recommended near-term path is Option A with Option C in parallel — buildin
 
 ### Legislative Champion Strategy
 
-The bipartisan ESOP cannabis legislation (HF3330/SF3520) demonstrates that ownership economy policy can attract Republican co-sponsors. The ESOP succession and procurement preference proposals are the most bipartisan-accessible. The Finance Authority and public bank proposals are more partisan — DFL majority conditions are prerequisite.
+The bipartisan ESOP cannabis legislation ([HF3330/SF3520](https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3330&ssn=0&y=2024)) demonstrates that ownership economy policy can attract Republican co-sponsors. The ESOP succession and procurement preference proposals are the most bipartisan-accessible. The Finance Authority and public bank proposals are more partisan — DFL majority conditions are prerequisite.
 
 Priority: identify a Senate DFL champion with economic or labor committee positioning who can serve as the legislative home for a comprehensive ownership economy bill. The agenda is coherent enough to be packaged as a single omnibus bill in a favorable legislative environment, or sequenced across multiple sessions in a divided one.
 

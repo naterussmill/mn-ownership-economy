@@ -22,9 +22,9 @@ The fastest path to capital for the ownership economy is amending the enabling s
 
 In a tied House and one-seat DFL Senate, the legislature realistically produces one or two significant ownership economy legislative bites per session. Phase 1 requires explicit sequencing, not a simultaneous five-front push.
 
-**First priority — ESOP Succession Bill:** Bundle the state capital gains exemption for ESOP sales with the MNCEO technical assistance fund appropriation into a single "ESOP Succession" bill. This is the most bipartisan-accessible item in the entire agenda — the bipartisan ESOP cannabis bill sponsors (DFL Senate, Republican House) are natural champions. It requires no new institutions, has modest direct fiscal cost, and has an existing track record of bipartisan support. If only one thing moves in session one, it should be this.
+**First priority — ESOP Succession Bill:** Bundle the state capital gains exemption for ESOP sales with the [MNCEO](https://mnceo.org) technical assistance fund appropriation into a single "ESOP Succession" bill. This is the most bipartisan-accessible item in the entire agenda — the bipartisan ESOP cannabis bill sponsors (DFL Senate, Republican House) are natural champions. It requires no new institutions, has modest direct fiscal cost, and has an existing track record of bipartisan support. If only one thing moves in session one, it should be this.
 
-**Second priority — MnCIFA and DEED Mandate Expansion:** A one-page amendment to MnCIFA's and DEED's enabling statutes adding cooperative formation, ESOP transitions, community-owned renewable energy, and housing cooperative development as eligible uses. No new institutions, no new appropriations required at the amendment stage. This is the fastest path to capital for the cooperative sector and can be packaged as a technical amendment to existing law. This moves in session one alongside ESOP if political conditions allow, or in session two if not.
+**Second priority — [MnCIFA](https://mn.gov/mncifa) and DEED Mandate Expansion:** A one-page amendment to MnCIFA's and DEED's enabling statutes adding cooperative formation, ESOP transitions, community-owned renewable energy, and housing cooperative development as eligible uses. No new institutions, no new appropriations required at the amendment stage. This is the fastest path to capital for the cooperative sector and can be packaged as a technical amendment to existing law. This moves in session one alongside ESOP if political conditions allow, or in session two if not.
 
 **Third priority — Procurement Preference (City Level First):** Pursue Minneapolis and St. Paul procurement preference policies independently before seeking state legislation. City councils can move faster, face lower legal risk, and build the evidentiary track record that makes the state-level ask more credible. Begin state-level vendor certification system development in parallel so infrastructure is ready when the political window opens.
 
@@ -73,7 +73,7 @@ Initially capitalized through legislative appropriation and revenue bonds. Expec
 - Cooperative Loan Fund: formation, conversion, and expansion capital — with paired technical assistance, governance training, and management development support as a standard loan condition
 - ESOP Transition Fund: subordinated debt and patient equity to bridge transactions commercial banks won't fully finance
 - Manufactured Home Park Cooperative Conversion Fund
-- Baby Bond investment management (if not housed at State Board of Investment)
+- Baby Bond investment management (if not housed at [State Board of Investment](https://www.sbi.state.mn.us))
 - Technical assistance and governance support grants — not just feasibility studies but ongoing support through the first 3–5 years of cooperative operation
 - Community navigator grants to organizations connecting underserved communities to ownership opportunities
 - Community-owned renewable energy cooperative development — in partnership with MnCIFA's existing clean energy programs
@@ -104,7 +104,7 @@ Once established, the Finance Authority's survival depends on its financial perf
 
 **What It Is**
 
-A state-owned bank that holds state deposits, issues bonds, provides wholesale liquidity to credit unions, CDFIs, and community banks, and backstops the Phase 2 Finance Authority functions with permanent capital. Modeled on the Bank of North Dakota, which has operated profitably since 1919.
+A state-owned bank that holds state deposits, issues bonds, provides wholesale liquidity to credit unions, CDFIs, and community banks, and backstops the Phase 2 Finance Authority functions with permanent capital. Modeled on the [Bank of North Dakota](https://www.banknd.nd.gov), which has operated profitably since 1919.
 
 **The Strategic Logic**
 

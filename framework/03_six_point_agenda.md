@@ -25,7 +25,7 @@ The three-phase arc in Section 4 provides the capital infrastructure that makes 
 
 **The Problem**
 
-Minnesota's baby boomer business transfer wave is the largest near-term wealth transfer opportunity available through ownership policy. MNCEO estimates 53,000 Minnesota businesses with 600,000 employees are at or approaching succession age. Private equity is actively targeting this market. Without intervention, the default outcome is consolidation, extraction, and community disinvestment — particularly devastating in rural communities where a single business may be the anchor employer. There are currently approximately 225 ESOP companies in Minnesota — significant by national standards but a tiny fraction of what the succession pipeline could support.
+Minnesota's baby boomer business transfer wave is the largest near-term wealth transfer opportunity available through ownership policy. [MNCEO](https://mnceo.org) estimates 53,000 Minnesota businesses with 600,000 employees are at or approaching succession age. Private equity is actively targeting this market. Without intervention, the default outcome is consolidation, extraction, and community disinvestment — particularly devastating in rural communities where a single business may be the anchor employer. There are currently approximately 225 ESOP companies in Minnesota — significant by national standards but a tiny fraction of what the succession pipeline could support.
 
 **The Broader Strategic Intersection**
 
@@ -35,7 +35,7 @@ Research consistently shows that ESOP employees have lower turnover than compara
 
 **The Model**
 
-Federal law already provides a partial capital gains exemption for ESOP sales under IRC §1042, allowing owners of C-corporations to defer capital gains by reinvesting proceeds in domestic securities. Minnesota can amplify this with a state-level exemption. Maine, Colorado, and other states have enacted versions of this approach. Maine's 2023 right of first refusal legislation — requiring owners to offer employees a purchase opportunity before selling to outside buyers — is a complementary policy for a subsequent legislative session.
+Federal law already provides a partial capital gains exemption for ESOP sales under [IRC §1042](https://www.law.cornell.edu/uscode/text/26/1042), allowing owners of C-corporations to defer capital gains by reinvesting proceeds in domestic securities. Minnesota can amplify this with a state-level exemption. Maine, Colorado, and other states have enacted versions of this approach. [Maine's 2023 right of first refusal legislation](https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0374&item=1&snum=131) — requiring owners to offer employees a purchase opportunity before selling to outside buyers — is a complementary policy for a subsequent legislative session.
 
 The single biggest barrier beyond tax incentives is transaction cost and complexity. ESOP conversions require legal, financial, and valuation expertise that small business owners typically lack access to. A dedicated technical assistance fund addresses this directly.
 
@@ -64,7 +64,7 @@ The single biggest barrier beyond tax incentives is transaction cost and complex
 | Feasibility studies funded through MNCEO | 0 (program does not exist) | 40+/year | Leading |
 | Employees covered by new conversions (cumulative) | N/A | 5,000+ | Leading |
 | Share of TA grants to greater MN | N/A | 40%+ | Leading |
-| ESOP participant retirement balances vs. non-ESOP | ~2x nationally (Rutgers) | Establish MN-specific baseline | Lagging |
+| ESOP participant retirement balances vs. non-ESOP | ~2x nationally ([Rutgers](https://smlr.rutgers.edu/content/research-brief-employee-ownership-retirement-security)) | Establish MN-specific baseline | Lagging |
 | 5-year business survival rate: ESOP vs. PE acquisition | Not currently tracked in MN | Commission study at year 3 | Lagging |
 
 **Who Measures**
@@ -89,7 +89,7 @@ The single biggest barrier beyond tax incentives is transaction cost and complex
 
 Cooperative enterprise is systematically underserved by commercial capital markets. Co-ops have unusual balance sheet structures, longer time horizons, and member-return orientations that make them poor fits for conventional lending underwriting. The result is a persistent capital gap that constrains cooperative formation and growth even when the business fundamentals are sound. This is not a market failure that will self-correct — it is structural, and it requires a structural response.
 
-But capital access alone is not sufficient. Cooperative enterprise also requires governance capacity, management expertise, and sustained member engagement that conventional business structures do not demand. The Mondragon cooperative system succeeded not because its bank provided capital, but because it provided *intensive management support alongside capital*. Any capital program that does not pair financing with robust technical assistance and governance support will produce undercapitalized failures and replace them with well-capitalized ones.
+But capital access alone is not sufficient. Cooperative enterprise also requires governance capacity, management expertise, and sustained member engagement that conventional business structures do not demand. The [Mondragon cooperative system](https://www.mondragon-corporation.com) succeeded not because its bank provided capital, but because it provided *intensive management support alongside capital*. Any capital program that does not pair financing with robust technical assistance and governance support will produce undercapitalized failures and replace them with well-capitalized ones.
 
 **The Broader Strategic Intersection**
 
@@ -97,13 +97,13 @@ The cooperative capital gap is most acute in three areas where it intersects wit
 
 *Agricultural cooperatives and rural economic stability.* CHS and Land O'Lakes were built in Minnesota, but the next generation of agricultural cooperative infrastructure — small-scale food processing co-ops, farm input co-ops, farmer marketing co-ops — is underdeveloped. These structures keep more agricultural margin in farm communities rather than extracting it through investor-owned supply chains. The Cooperative Loan Fund should explicitly target agricultural cooperative formation as a high-priority eligible use alongside business cooperative conversions.
 
-*Community-owned renewable energy.* Community solar cooperatives and community wind projects allow rural communities to retain energy revenue locally rather than exporting it to investor-owned utility shareholders. MnCIFA's existing clean energy charter creates an immediate administrative pathway — cooperative energy projects should be explicitly eligible under both the existing MnCIFA mandate and the expanded Cooperative Loan Fund. This is also a coalition-building intersection: environmental organizations become natural allies of the ownership economy agenda when community-owned energy is part of the platform.
+*Community-owned renewable energy.* Community solar cooperatives and community wind projects allow rural communities to retain energy revenue locally rather than exporting it to investor-owned utility shareholders. [MnCIFA](https://mn.gov/mncifa)'s existing clean energy charter creates an immediate administrative pathway — cooperative energy projects should be explicitly eligible under both the existing MnCIFA mandate and the expanded Cooperative Loan Fund. This is also a coalition-building intersection: environmental organizations become natural allies of the ownership economy agenda when community-owned energy is part of the platform.
 
 *Childcare access in thin markets.* Rural Minnesota faces a severe childcare shortage that commercial providers cannot solve — the communities are too small to achieve viable commercial scale. Childcare cooperatives — where parents share governance and costs, often with worker-ownership components — can serve communities that markets will not. The cooperative structure reduces operating costs through shared governance and member contributions. This is a partial solution — childcare also needs ongoing operating subsidy — but it addresses the supply problem in communities where commercial provision is simply not viable. The Cooperative Loan Fund should include childcare cooperative formation as an eligible use with paired technical assistance.
 
 **The Model**
 
-The Mondragon cooperative system in the Basque Country was built on Caja Laboral, a cooperative bank that provided patient capital and intensive management support specifically designed for cooperative enterprise. Closer to home, the Wisconsin Cooperative Development Grant Program (modest but real) and CDFIs like Northcountry Cooperative Foundation demonstrate that dedicated capital can be deployed to the sector. The fastest near-term path is mandate expansion of MnCIFA and DEED rather than a new institution, building toward a dedicated Cooperative Loan Fund in Phase 2.
+The Mondragon cooperative system in the Basque Country was built on [Caja Laboral](https://www.laboral-kutxa.eus), a cooperative bank that provided patient capital and intensive management support specifically designed for cooperative enterprise. Closer to home, the Wisconsin Cooperative Development Grant Program (modest but real) and CDFIs like [Northcountry Cooperative Foundation](https://www.northcountry.coop) demonstrate that dedicated capital can be deployed to the sector. The fastest near-term path is mandate expansion of MnCIFA and DEED rather than a new institution, building toward a dedicated Cooperative Loan Fund in Phase 2.
 
 **The Minnesota Ask**
 
@@ -172,7 +172,7 @@ Procurement preference is the only item in this agenda that requires no new appr
 
 **The Model**
 
-The Preston Model in the UK redirected £75 million in annual anchor institution spending toward local and cooperative suppliers between 2013 and 2017, without new appropriations, producing measurable local economic development. The Cleveland Model in Ohio used hospital and university procurement to anchor a network of worker-owned enterprises in low-income neighborhoods. Both demonstrate that procurement redirection is a real economic development tool, not a symbolic gesture.
+The [Preston Model](https://cles.org.uk/publications/how-we-built-community-wealth-in-preston) in the UK redirected £75 million in annual anchor institution spending toward local and cooperative suppliers between 2013 and 2017, without new appropriations, producing measurable local economic development. The [Cleveland Model](https://evergreencooperatives.com) in Ohio used hospital and university procurement to anchor a network of worker-owned enterprises in low-income neighborhoods. Both demonstrate that procurement redirection is a real economic development tool, not a symbolic gesture.
 
 **The Minnesota Ask**
 
@@ -231,7 +231,7 @@ Baby bonds are also entirely within state authority — funded through state app
 
 **The Model**
 
-Connecticut launched the first state baby bonds program in 2021, seeding accounts for children born into Medicaid-eligible families. Washington D.C. followed with a broader program. The core insight is simple: capital compounds, so the earlier you plant it, the more it grows. An 18-year compounding period on even a modest initial seed produces meaningful capital at the moment young adults need it most.
+[Connecticut](https://portal.ct.gov/OTT/Baby-Bonds) launched the first state baby bonds program in 2021, seeding accounts for children born into Medicaid-eligible families. [Washington D.C.](https://dgs.dc.gov/service/dc-baby-bonds) followed with a broader program. The core insight is simple: capital compounds, so the earlier you plant it, the more it grows. An 18-year compounding period on even a modest initial seed produces meaningful capital at the moment young adults need it most.
 
 The explicit link to ownership economy use cases — cooperative membership, business formation, ESOP participation, housing cooperative membership — is a Minnesota innovation. Baby bonds are not just wealth-building; they are the demand-side infrastructure of the ownership economy. They produce adults with capital who can participate in the institutions the supply-side policies are building.
 
@@ -240,7 +240,7 @@ The explicit link to ownership economy use cases — cooperative membership, bus
 **The Minnesota Ask**
 
 - Establish Minnesota Baby Bonds: a state-seeded investment account for every Minnesota child at birth, with initial deposits of $500–$3,000 scaled to family income
-- Funds invested in a low-cost diversified index structure, managed by the State Board of Investment
+- Funds invested in a low-cost diversified index structure, managed by the [State Board of Investment](https://www.sbi.state.mn.us)
 - Withdrawable at age 18 for approved uses: post-secondary education, home purchase, business formation, cooperative or ESOP membership, CLT homeownership, or housing cooperative membership — explicitly connecting baby bonds to the full ownership economy and housing agenda
 - Income scaling: maximum benefit for children born into households below 200% of the federal poverty level; phase-out above median household income
 - Auto-enrollment at birth (opt-out model) based on Connecticut's experience with low opt-in enrollment
@@ -290,7 +290,7 @@ Baby bonds have the longest feedback loop of any item in this agenda. We will no
 
 **The Problem**
 
-Minnesota's public pension funds — MSRS, PERA, and TRA — hold approximately $100 billion in assets on behalf of hundreds of thousands of public employees. Those assets are invested primarily in publicly traded equities, managed largely by major asset managers like BlackRock and Vanguard. The asset managers cast shareholder votes on behalf of pension beneficiaries — but they vote according to their own interests and policies, not necessarily those of Minnesota workers and retirees.
+Minnesota's public pension funds — [MSRS](https://www.msrs.state.mn.us), [PERA](https://www.mnpera.org), and [TRA](https://www.minnesotatra.org) — hold approximately $100 billion in assets on behalf of hundreds of thousands of public employees. Those assets are invested primarily in publicly traded equities, managed largely by major asset managers like BlackRock and Vanguard. The asset managers cast shareholder votes on behalf of pension beneficiaries — but they vote according to their own interests and policies, not necessarily those of Minnesota workers and retirees.
 
 This creates a profound irony: Minnesota's pooled public capital is actively used to reinforce the shareholder-primacy model that drives wealth concentration, rather than to advance the interests of the workers who own it.
 
@@ -300,14 +300,14 @@ Pension shareholder democracy connects to Minnesota's fiscal challenge in an und
 
 **The Model**
 
-Several states have begun requiring that investment managers holding public pension assets follow beneficiary-interest voting guidelines or pass voting decisions through to beneficial owners. France requires institutional investors above a certain threshold to publish and follow voting policies aligned with long-term value creation. Legal & General Investment Management in the UK has pioneered pass-through voting at scale. The "universal owner" framework — which argues that large diversified funds are harmed by short-termist behavior across the economy — provides academic grounding.
+Several states have begun requiring that investment managers holding public pension assets follow beneficiary-interest voting guidelines or pass voting decisions through to beneficial owners. France requires institutional investors above a certain threshold to publish and follow voting policies aligned with long-term value creation. [Legal & General Investment Management](https://www.lgim.com/uk/asl/capabilities/investment-stewardship/pass-through-voting) in the UK has pioneered pass-through voting at scale. The "universal owner" framework — which argues that large diversified funds are harmed by short-termist behavior across the economy — provides academic grounding.
 
 **The Minnesota Ask**
 
 - Require investment managers holding Minnesota public pension assets to publish annual voting records and justify votes that conflict with long-term beneficiary interest guidelines established by the pension board
 - Establish a pension beneficiary advisory council with authority to set proxy voting guidelines on key governance issues: executive compensation, climate risk, labor standards, and corporate political spending
 - Explore pass-through voting mechanisms that allow beneficiaries to direct votes on key resolutions — piloted in the UK by Legal & General
-- Commission the University of Minnesota Carlson School or Humphrey School to conduct ongoing research on the relationship between pension governance engagement and long-term returns — building the evidentiary base that makes the fiduciary argument durable
+- Commission the [University of Minnesota Carlson School](https://carlsonschool.umn.edu) or [Humphrey School](https://www.hhh.umn.edu) to conduct ongoing research on the relationship between pension governance engagement and long-term returns — building the evidentiary base that makes the fiduciary argument durable
 
 **Intended Outcomes**
 
@@ -364,19 +364,19 @@ This point applies ownership economy principles to a different asset class — h
 
 **The Models**
 
-*Community Land Trusts (CLTs).* A nonprofit holds land in trust in perpetuity. Residents own their units but agree to resale price limits that keep the home affordable for the next buyer. Every publicly subsidized dollar remains in the housing stock permanently — it is not recaptured by the market when the first resident sells. Minnesota has proven CLT operators — Rondo Community Land Trust in St. Paul — with the capacity to scale if capital is available for land acquisition.
+*Community Land Trusts (CLTs).* A nonprofit holds land in trust in perpetuity. Residents own their units but agree to resale price limits that keep the home affordable for the next buyer. Every publicly subsidized dollar remains in the housing stock permanently — it is not recaptured by the market when the first resident sells. Minnesota has proven CLT operators — [Rondo Community Land Trust](https://www.rondoclt.org) in St. Paul — with the capacity to scale if capital is available for land acquisition.
 
 *Limited-equity housing cooperatives.* Residents collectively own their building through share ownership. They build equity and have governance rights, but resale prices are limited by cooperative bylaws, keeping units perpetually affordable. This model has operated in New York City for decades at scale, and is well-suited to the Twin Cities multifamily market.
 
-*Manufactured home park cooperatives.* This is the highest-leverage, lowest-cost, and most underappreciated model in this agenda. When a manufactured home park is sold to a private investor, residents — disproportionately lower-income and rural — face rent increases or displacement. When residents buy the park as a cooperative, they permanently control their own housing costs. ROC USA has facilitated hundreds of these conversions nationally. Minnesota has significant manufactured home park density, particularly in greater Minnesota, that is actively vulnerable to investor acquisition. A dedicated conversion fund with ROC USA technical assistance partnership would produce tangible, rapid results in rural communities — and it is bipartisan. Protecting rural residents from displacement is not a progressive issue.
+*Manufactured home park cooperatives.* This is the highest-leverage, lowest-cost, and most underappreciated model in this agenda. When a manufactured home park is sold to a private investor, residents — disproportionately lower-income and rural — face rent increases or displacement. When residents buy the park as a cooperative, they permanently control their own housing costs. [ROC USA](https://rocusa.org) has facilitated hundreds of these conversions nationally. Minnesota has significant manufactured home park density, particularly in greater Minnesota, that is actively vulnerable to investor acquisition. A dedicated conversion fund with ROC USA technical assistance partnership would produce tangible, rapid results in rural communities — and it is bipartisan. Protecting rural residents from displacement is not a progressive issue.
 
-*Public bank below-market mortgages.* In Phase 3, the Minnesota Public Bank should offer below-market mortgage products for CLT homebuyers and housing cooperative members — exactly as the Bank of North Dakota does for rural homebuyers. This makes the permanently affordable models financially accessible to the families they are designed to serve.
+*Public bank below-market mortgages.* In Phase 3, the Minnesota Public Bank should offer below-market mortgage products for CLT homebuyers and housing cooperative members — exactly as the [Bank of North Dakota](https://www.banknd.nd.gov) does for rural homebuyers. This makes the permanently affordable models financially accessible to the families they are designed to serve.
 
 **The Minnesota Ask**
 
 - Amend MnCIFA's enabling statute to include CLT land acquisition and limited-equity housing cooperative capitalization as eligible project types
 - Establish a dedicated Manufactured Home Park Cooperative Conversion Fund within the Phase 2 Finance Authority, capitalized at $10–20 million, with ROC USA as technical assistance partner
-- Direct MHFA to create a permanently affordable housing track within its existing bond and loan programs, explicitly partnering with CLTs and housing cooperatives as eligible borrowers
+- Direct [MHFA](https://www.mnhousing.gov) to create a permanently affordable housing track within its existing bond and loan programs, explicitly partnering with CLTs and housing cooperatives as eligible borrowers
 - Add housing cooperative membership and CLT homeownership as explicitly approved withdrawal uses for Minnesota Baby Bonds — connecting baby bonds to the housing infrastructure
 - In Phase 3: design the Minnesota Public Bank to offer below-market mortgage products for CLT homebuyers and housing cooperative members
 
