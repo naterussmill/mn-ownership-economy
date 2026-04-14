@@ -5,9 +5,9 @@
 
 ### Key Assumptions
 
-**State operating deposits available for redeployment:** Minnesota's state government maintains significant operating deposits across multiple commercial banks. Total state deposits are estimated in the range of $8–15 billion (precise figure requires Treasury confirmation). A target of 20–30% redeployment to a public bank would yield a deposit base of approximately $2–4 billion at full scale.
+**State operating deposits available for redeployment:** Minnesota's state government maintains significant operating deposits across multiple commercial banks. Total state deposits are estimated in the range of $8–15 billion. *This figure requires verification against Minnesota Management and Budget or Department of Finance records before this appendix is shared publicly — it is an order-of-magnitude estimate, not a confirmed Treasury figure.* A target of 20–30% redeployment to a public bank would yield a deposit base of approximately $2–4 billion at full scale.
 
-**Initial capitalization:** The Bank of North Dakota was initially capitalized at $2 million in 1919 (approximately $37 million in 2026 dollars). A Minnesota public bank would likely require $200–500 million in initial capitalization through a combination of legislative appropriation and revenue bond issuance, reflecting the larger state economy and the need to achieve minimum lending scale quickly.
+**Initial capitalization:** [The Bank of North Dakota](https://bnd.nd.gov) was initially capitalized at $2 million in 1919 (approximately $37 million in 2026 dollars). A Minnesota public bank would likely require $200–500 million in initial capitalization through a combination of legislative appropriation and revenue bond issuance, reflecting the larger state economy and the need to achieve minimum lending scale quickly.
 
 **Net interest margin:** The BND has historically achieved net interest margins of approximately 2.5–3.0%. A conservative projection for a new institution in a more competitive banking environment would be 2.0–2.5%.
 
@@ -29,9 +29,9 @@ These are illustrative, not projections. Actual performance depends on factors i
 
 The BND comparison is instructive but imperfect. Important differences:
 
-- **Scale:** North Dakota has ~780,000 people. Minnesota has 5.7 million. A Minnesota bank would be larger in absolute terms but smaller relative to the state economy.
+- **Scale:** North Dakota has ~780,000 people. *(BND 2023 financial performance: [bnd.nd.gov](https://bnd.nd.gov/bank-of-north-dakota-releases-2023-annual-report/))* Minnesota has 5.7 million. A Minnesota bank would be larger in absolute terms but smaller relative to the state economy.
 - **Banking market:** North Dakota's banking market is less competitive. Minnesota has a deeper, more complex commercial banking sector that will resist more aggressively.
-- **Capitalization timeline:** The BND has had 107 years to compound. Minnesota would be starting from zero. The revenue generation cited in the executive summary ($167M BND transfer) reflects a mature institution, not a new one.
+- **Capitalization timeline:** The BND has had 107 years to compound. Minnesota would be starting from zero. The revenue generation cited in the executive summary (BND profits of $192.7M in 2023, with more than $585M transferred to the general fund since 1919) reflects a mature institution, not a new one.
 - **Oil revenue:** A meaningful share of BND's deposit base comes from oil-related state revenue. Minnesota's revenue base is more diversified but does not have an analogous windfall source.
 - **Political environment:** The BND has operated without controversy across party lines for a century. A new Minnesota public bank would face significant political opposition and its first decade would be its most vulnerable.
 
