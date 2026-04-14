@@ -6,6 +6,27 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [3.1] — April 2026
+
+### Added
+- **Key Statistics Sources section** (Executive Summary) — sourced citations for the five key factual claims underpinning the framework: MNCEO succession data, MMB deficit forecast, NLIHC/MHP housing gap figures, BND profit and transfer history, and Rutgers/NCEO ESOP retirement wealth research
+- **`[^1]` footnote on federal transfers figure** — flags the $45 billion / one-third estimate as requiring ACFR or MMB verification before wider distribution
+- **Inline links throughout all framework sections** — first-occurrence links added for key organizations, institutions, statutes, and proof-point references across all six framework files and both appendices; covers MNCEO, MnCIFA, BND, ROC USA, Mondragon, IRC §1042, Maine LD 1857, Connecticut and D.C. baby bonds programs, pension funds (MSRS, PERA, TRA), Legal & General, tribal organizations (SMSC, Mille Lacs Band, MLCV, MNIBA, CICD), and others
+- **`CONTRIBUTING.md`** — plain-language onboarding guide for non-developer contributors, including an AI-assisted contribution path, three formal contribution routes, and guidance on what makes a strong contribution
+- **Page navigation links** — prev/next links at the bottom of all seven framework section files
+
+### Changed
+- **BND figure corrected** (Executive Summary and Section 1) — updated from "$167 million transferred in a single year" to "$192.7 million in profits in 2023 — its most recent record year — and more than $585 million transferred to the state general fund since 1919," sourced to the BND 2023 Annual Report
+- **Deficit framing updated** (Executive Summary and Section 1) — replaced single-forecast figure with two-forecast framing acknowledging the November 2025 MMB projection ($2.96 billion) and the February 2026 revision (narrow positive balance), with MMB's explicit structural imbalance caveat preserved
+
+### Repository
+- README version corrected from v2.7 to v3.0
+- README file tree updated to reflect modularized framework structure, correct filenames, and working links
+- README "How to Engage" updated to introduce `CONTRIBUTING.md` and fill contact placeholder
+- One-pager renamed to `mn_ownership_economy_onepager.md`
+
+---
+
 ## [3.0] — April 2026
 
 This version represents a substantial maturation of the framework following an independent critical review, a full tone revision, the addition of technology and AI intersections, a momentum assessment grounded in current research, and the preparation of this repository for public release. Versions 2.1 through 2.7 are consolidated here as the cumulative body of work that defines v3.0.

@@ -60,23 +60,6 @@ Supported by a three-phase capital infrastructure arc from near-term mandate exp
 
 ---
 
-## Current Version
-
-**Framework: v3.0** — April 2026
-
-Key additions in recent versions:
-- Six-point agenda (housing added as standalone point)
-- Momentum assessment with existing advocacy organizations and near-term legislative paths for each point
-- Public bank financial sketch (Appendix B)
-- Opposition analysis
-- Tribal nations section with sovereignty framing
-- AI/technology intersection analysis
-- Platform cooperative incubation as a watch item
-
-Full version history in [CHANGELOG.md](CHANGELOG.md).
-
----
-
 ## How to Engage
 
 **Not a developer? Start here: [CONTRIBUTING.md](CONTRIBUTING.md)** — a plain-language guide for legislators, advocates, researchers, and funders who want to engage with this framework. Includes an AI-assisted onboarding path that requires no Git knowledge.
