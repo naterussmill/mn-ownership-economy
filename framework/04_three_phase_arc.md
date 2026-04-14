@@ -12,7 +12,7 @@ The phases are not strictly sequential — early Phase 2 work can begin while Ph
 
 ---
 
-### Phase 1: Mandate Expansion (Near-Term, 1–3 Years)
+### 🌱 Phase 1: Mandate Expansion (Near-Term, 1–3 Years)
 
 **What It Is**
 
@@ -58,7 +58,7 @@ If Republicans take the House or Senate before Phase 1 is complete, the survivin
 
 ---
 
-### Phase 2: Minnesota Ownership Economy Finance Authority (3–7 Years)
+### 🏗️ Phase 2: Minnesota Ownership Economy Finance Authority (3–7 Years)
 
 **What It Is**
 
@@ -100,7 +100,7 @@ Once established, the Finance Authority's survival depends on its financial perf
 
 ---
 
-### Phase 3: Minnesota Public Bank (7–15 Years)
+### 🏛️ Phase 3: Minnesota Public Bank (7–15 Years)
 
 **What It Is**
 

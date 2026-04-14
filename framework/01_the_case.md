@@ -175,12 +175,12 @@ This is not a complete solution — childcare also needs subsidy, not just struc
 
 | Minnesota Challenge | Ownership Economy Response | Strength | Bipartisan Potential |
 |---|---|---|---|
-| Fiscal cliff / structural deficit | Public bank revenue generation (long-term); near-term costs modest | Moderate near-term; strong long-term | Low — public bank requires DFL majority |
-| Housing affordability | CLTs, housing co-ops, baby bonds as down payment, public bank mortgages, MHC co-ops | Strong — adds permanently affordable layer missing from current debate | Mixed — MHP co-ops bipartisan; CLTs/baby bonds DFL |
-| Rural decline | ESOP succession, ag co-ops, community energy co-ops, MHC co-ops, childcare co-ops, public bank rural lending | Strongest geographic alignment; best bipartisan opportunity | High — strongest bipartisan intersection |
-| Federal funding vulnerability | Public bank sovereignty; state-controlled capital; Native CDFI backstop | Emerging — powerful framing for current moment | Low for public bank; moderate for CDFI backstop |
-| Workforce shortage / retention | ESOP/co-op turnover research | Moderate — supporting evidence, not primary argument | High — non-ideological business case |
-| Childcare access | Childcare cooperative formation; co-op loan fund eligible use | Partial — structure helps but doesn't fully solve | Moderate |
+| Fiscal cliff / structural deficit | Public bank revenue generation (long-term); near-term costs modest | 🟡 Moderate near-term; strong long-term | 🔴 Low — public bank requires DFL majority |
+| Housing affordability | CLTs, housing co-ops, baby bonds as down payment, public bank mortgages, MHC co-ops | 🟢 Strong — adds permanently affordable layer missing from current debate | 🟡 Mixed — MHP co-ops bipartisan; CLTs/baby bonds DFL |
+| Rural decline | ESOP succession, ag co-ops, community energy co-ops, MHC co-ops, childcare co-ops, public bank rural lending | 🟢 Strongest geographic alignment; best bipartisan opportunity | 🟢 High — strongest bipartisan intersection |
+| Federal funding vulnerability | Public bank sovereignty; state-controlled capital; Native CDFI backstop | 🟡 Emerging — powerful framing for current moment | 🔴 Low for public bank; moderate for CDFI backstop |
+| Workforce shortage / retention | ESOP/co-op turnover research | 🟡 Moderate — supporting evidence, not primary argument | 🟢 High — non-ideological business case |
+| Childcare access | Childcare cooperative formation; co-op loan fund eligible use | 🔴 Partial — structure helps but doesn't fully solve | 🟡 Moderate |
 
 ---
 

@@ -21,7 +21,7 @@ The three-phase arc in Section 4 provides the capital infrastructure that makes 
 
 ---
 
-### Point 1: ESOP Succession Pipeline
+### 🏭 Point 1: ESOP Succession Pipeline
 
 **The Problem**
 
@@ -74,7 +74,7 @@ The single biggest barrier beyond tax incentives is transaction cost and complex
 - U.S. Department of Labor Form 5500 filings provide ESOP participant and asset data — publicly available, analyzed by MNCEO and national partners
 - Independent evaluation: commission a 5-year study at program year 3, comparing worker wealth outcomes in converted vs. unconverted businesses
 
-**Decision Triggers**
+**⚠️ Decision Triggers**
 
 - *If* feasibility study uptake is below 20/year after year 2: the barrier is awareness, not capital — redirect resources to outreach and business owner education rather than more subsidy
 - *If* conversions are clustering in metro areas despite rural mandate: strengthen rural-specific outreach through regional development organizations and agricultural lending networks; consider rural-specific incentive enhancement
@@ -83,7 +83,7 @@ The single biggest barrier beyond tax incentives is transaction cost and complex
 
 ---
 
-### Point 2: Business and Agricultural Cooperative Capital
+### 🤝 Point 2: Business and Agricultural Cooperative Capital
 
 **The Problem**
 
@@ -146,7 +146,7 @@ The Mondragon cooperative system in the Basque Country was built on [Caja Labora
 - The Cooperative Loan Fund (Phase 2) publishes an annual report covering portfolio performance, demographic reach, and capital leverage
 - CDFI Fund certification requires financial reporting — use this as the performance standard for the fund
 
-**Decision Triggers**
+**⚠️ Decision Triggers**
 
 - *If* demand for cooperative capital significantly exceeds supply after mandate expansion: accelerate Phase 2 Finance Authority timeline
 - *If* loan defaults are concentrated in a particular sector or geography: assess whether the problem is underwriting criteria, management capacity, or market conditions — adjust accordingly. If management capacity is the primary factor, shift resources from lending to technical assistance before deploying more capital
@@ -156,7 +156,7 @@ The Mondragon cooperative system in the Basque Country was built on [Caja Labora
 
 ---
 
-### Point 3: Ownership-Preference Procurement
+### 🛒 Point 3: Ownership-Preference Procurement
 
 **The Problem**
 
@@ -208,7 +208,7 @@ The [Preston Model](https://cles.org.uk/publications/how-we-built-community-weal
 - Cooperative Network and MNCEO track member experience with the certification and bidding process — qualitative data on barriers and successes
 - Independent evaluation at year 5: compare economic outcomes for communities where ownership economy vendors are concentrated vs. those where they are not
 
-**Decision Triggers**
+**⚠️ Decision Triggers**
 
 - *If* certification uptake is below 50 vendors after year 2: the preference isn't visible enough, or the certification process is too burdensome — simplify the process and fund outreach through MNCEO and CoMinnesota
 - *If* ownership economy vendors are winning contracts but predominantly in metro areas: rural procurement categories and regional outreach are needed
@@ -217,7 +217,7 @@ The [Preston Model](https://cles.org.uk/publications/how-we-built-community-weal
 
 ---
 
-### Point 4: Baby Bonds
+### 👶 Point 4: Baby Bonds
 
 **The Problem**
 
@@ -278,7 +278,7 @@ The explicit link to ownership economy use cases — cooperative membership, bus
 
 Baby bonds have the longest feedback loop of any item in this agenda. We will not know if they work — by the ultimate measure of wealth outcomes — for 20+ years. The leading indicators matter more here than anywhere else, because they are what allow course correction before the program's primary beneficiaries reach adulthood. The program should be designed with explicit review gates at years 3, 7, and 12, with authority to adjust benefit levels, eligible uses, and investment strategy based on enrollment trends and early demographic data.
 
-**Decision Triggers**
+**⚠️ Decision Triggers**
 
 - *If* enrollment is below 80% at year 3 despite auto-enrollment: investigate whether distrust of government institutions is a barrier — consider community-based administration through hospitals, WIC programs, and community organizations
 - *If* higher-income families are disproportionately enrolling: the income scaling is not working as designed — tighten phase-out or restrict to income-eligible families only
@@ -286,7 +286,7 @@ Baby bonds have the longest feedback loop of any item in this agenda. We will no
 
 ---
 
-### Point 5: Public Pension Shareholder Democracy
+### 🏦 Point 5: Public Pension Shareholder Democracy
 
 **The Problem**
 
@@ -341,7 +341,7 @@ Several states have begun requiring that investment managers holding public pens
 
 This proposal will face fiduciary duty objections. Investment managers and some pension board members will argue that non-financial criteria in proxy voting violate the obligation to maximize returns for beneficiaries. This is a live legal and regulatory debate, and the argument is not frivolous. The response is twofold: first, the growing body of evidence that stakeholder governance produces better long-term returns, not worse; second, the explicit legal framing of beneficiary interest guidelines as long-term financial criteria, not social criteria. The policy must be designed with this tension front of mind, and legal review should precede legislative introduction.
 
-**Decision Triggers**
+**⚠️ Decision Triggers**
 
 - *If* legal challenge succeeds: reframe voting guidelines explicitly as long-term financial risk criteria, and build the evidentiary record that supports this framing. Do not proceed with broader implementation until legal footing is secure
 - *If* investment managers are not complying with disclosure requirements: enforcement mechanism needs teeth — contract termination should be an available remedy
@@ -350,7 +350,7 @@ This proposal will face fiduciary duty objections. Investment managers and some 
 
 ---
 
-### Point 6: Permanently Affordable Housing and Homeownership
+### 🏠 Point 6: Permanently Affordable Housing and Homeownership
 
 **The Problem**
 
@@ -411,7 +411,7 @@ This point applies ownership economy principles to a different asset class — h
 - Minnesota Housing Partnership publishes annual housing gap analysis — request inclusion of permanently affordable stock as a tracked metric
 - Independent evaluation at year 5: compare housing cost burden, residential stability, and community investment outcomes
 
-**Decision Triggers**
+**⚠️ Decision Triggers**
 
 - *If* CLT land acquisition capital is flowing but no conversions are completing: the barrier is CLT organizational capacity, not capital — invest in CLT development capacity before continuing to deploy land acquisition funds
 - *If* MHP conversion pipeline is strong but transactions are not closing: seller reluctance or resident financing is the constraint — add seller incentive or resident loan products
